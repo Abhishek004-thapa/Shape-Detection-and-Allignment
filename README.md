@@ -14,15 +14,21 @@ For detailed documentation of this task, check pdf files that i ve uploaded abov
 ### `TIPS TO START THIS PROJECT:`
 
 i) Download zip file and extract and open in Pycharm.
+
 ii) Make sure to install package using `pip install opencv-python` from pycharm terminal or `directly from pycharm.
+
 iii) Start with `rectangle_numbering.py` and open pdf `rectangle_numbering-detailedDocumentation.pdf` in another window.
+
 iv) Go through pdf first and also visting part of codes that you ve read in timely fashion.
+
 v) Then Proceed with similar approach to `rectangle_allignment.py`.
 
 I could use `cv2.warpAffine()` to rotate whole contours along with its child.
+
 But, as a learner, I loved to use my own logics and put into code which i ve done here in this project.
 
-Thanks for Visiting. 
+Thanks for Visiting.
+
 `Don't forget to STAR my repo if you like this repo.`
 
 ### `REFERENCES:`
