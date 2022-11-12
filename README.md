@@ -5,11 +5,16 @@
 ### `OBJECTIVE:`
 
 From the given image below, We need to numbered rectangle according to the length of line within that rectangle.
+
 Rectangle consisting of line with smallest length should be assigned as 1 and 2, 3 and so on in ascending order.
+
 ![image](https://user-images.githubusercontent.com/52848973/201460302-ae2f27c8-51a5-4074-a464-8a316b961923.png)
 
-In this project, I have used my own logics to number and allign lines and rectangles. I 've documented my logics in pdf files which i have uploaded in this repo.
-For detailed documentation of this task, check pdf files that i ve uploaded above.
+In this project, I have used my own logics to number and allign lines and rectangles.
+
+I 've documented my logics in pdf files which i have uploaded in this repo.
+
+For `detailed documentation` of this task, check pdf files that i ve uploaded above.
 
 ### `TIPS TO START THIS PROJECT:`
 
